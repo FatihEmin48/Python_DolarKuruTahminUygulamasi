@@ -1,4 +1,4 @@
-#Dolar Kuru Tahmin Uygulaması
+# Dolar Kuru Tahmin Uygulaması
 
 Model 30.01.2017 - 14.03.2024 arası verilerle eğitilmiştir.
 
